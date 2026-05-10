@@ -21,7 +21,6 @@ More topics and optimized solutions will be added progressively.
 
 - Strengthen DSA fundamentals
 - Improve problem-solving skills
-- Prepare for coding interviews
 - Practice writing clean and efficient Java code
 
 ---
@@ -55,8 +54,4 @@ java-dsa-practice/
 - The repository is actively maintained as part of continuous learning and interview preparation.
 - More DSA topics and optimized approaches will be added regularly.
 
----
 
-## Author
-
-Lakhan Reddy
