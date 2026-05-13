@@ -6,8 +6,8 @@ package arrays;
 //           For every element, check if (target - element) already exists
 //           in the map. If yes, we found our pair. If no, store it.
 //           This avoids the O(n^2) brute force of checking every pair.
-// Time: O(n) — single pass through the array
-// Space: O(n) — HashMap stores up to n elements
+// Time: O(n) — single pass through the array.
+// Space: O(n) — HashMap stores up to n elements.
 
 import java.util.HashMap;
 import java.util.Arrays;
