@@ -6,9 +6,9 @@ A collection of Data Structures and Algorithms problems solved in Java while pre
 
 ## Current Topics
 
-- Arrays
-- Strings
-- HashMap
+- arrays
+- strings
+- hashMap
 - Linked List
 - Stack
 - Queue
